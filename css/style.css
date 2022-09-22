@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+
+body{
+    background: #aed3e4;
+    font-family: 'Dancing Script', cursive;
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+    color: black;
+    margin-top: 100px;
+    transition: 2s;
+}
+h1:hover{
+    color: rgb(255, 0, 200);
+    font-size: 45px;
+}
+h2:hover {
+    color: purple;
+    font-size: 50px;
+}
+a img {
+    width: 60px;
+
+}
+#hero {
+    width: 100%;
+
+}
+button {
+    color: black;
+    font-size: 30px;
+    background: rgb(129, 131, 119);
+
+}
+
+#suma{
+    background: rgb(255, 136, 0);
+    font-size: 20px;
+}
+#ope{
+    background: rgb(144, 197, 144);
+    font-size: 20px;
+}
+#numero{
+    background: rgb(143, 84, 84);
+    font-size: 20px;
+}
+#cuadrado{
+    background: rgb(165, 105, 165);
+    font-size: 20px;
+}
+#triangulo{
+    background: pink;
+    font-size: 20px;
+}
+#pulgada{
+    background: rgb(240, 197, 119);
+    font-size: 20px;
+}
+#desc{
+    background: rgb(153, 119, 119);
+    font-size: 20px;
+}
+#algoritmos{
+    background: url("../img/Fondo.jpg");
+    background-size: cover;
+    background-repeat: none;
+    text-align: center;
+    padding: 100px;
+}
+#algoritmos p{
+    color: black;
+    font-size: 50px;
+}
+#algoritmos button{
+    padding: 12px 40px;
+    font-size: 20px;
+    background: transparent;
+    color:black;
+    border:2px solid black;
+    margin:20px 10px;
+}
+
+h3{
+    
+    font-size: 40px;
+    
+}
